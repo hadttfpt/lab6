@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c867a65a-6457-4b1f-9884-f62952333e0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobocucweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobocucweb/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobocucweb/page/web co ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/i.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/kiem tra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/lab7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/page/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csslythuyet" beforeDir="false" afterPath="$PROJECT_DIR$/../csslythuyet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email" beforeDir="false" afterPath="$PROJECT_DIR$/../email" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example1" beforeDir="false" afterPath="$PROJECT_DIR$/../example1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gioithieu" beforeDir="false" afterPath="$PROJECT_DIR$/../gioithieu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../htmlmodau" beforeDir="false" afterPath="$PROJECT_DIR$/../htmlmodau" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine" beforeDir="false" afterPath="$PROJECT_DIR$/../imagine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/dictionaries/admin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/index.php.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/page/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../taobocucweb/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/page/lab2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/page/lab2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentaphtml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentaphtml/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhluythua" beforeDir="false" afterPath="$PROJECT_DIR$/../tinhluythua" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="505500836">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2559" />
+          <entry key="html" value="7086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2559" />
+          <entry key="HTML" value="7086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/i.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/lab7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/page/index.html" />
+        <option value="$PROJECT_DIR$/page/i.html" />
+        <option value="$PROJECT_DIR$/page/kiem tra.html" />
+        <option value="$PROJECT_DIR$/page/lab7.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1344" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoweb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoweb" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gioithieu" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="i.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/taoweb/page/i.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.i.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c867a65a-6457-4b1f-9884-f62952333e0e" name="Default Changelist" comment="" />
+      <created>1541052139148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541052139148</updated>
+      <workItem from="1541052140636" duration="8004000" />
+      <workItem from="1541075844001" duration="7814000" />
+      <workItem from="1541086052198" duration="5354000" />
+      <workItem from="1541123506296" duration="4372000" />
+      <workItem from="1541162313319" duration="2701000" />
+      <workItem from="1541210173082" duration="24661000" />
+      <workItem from="1541310548665" duration="4927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57833000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1344" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2672282" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.032432433" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/kiem tra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/lab7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/i.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

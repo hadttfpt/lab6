@@ -1,0 +1,113 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo layout</title>
+    <style>
+
+        * {
+            margin: 5px;
+            padding: 5px;
+        }
+
+        /* header */
+        .header {
+            border: 1px solid red;
+        }
+
+        .header .logo {
+            float: left;
+            width: 18%;
+        }
+
+        .header .name {
+            float: left;
+            width: 75%;
+        }
+
+        .header .logo img {
+            width: 70px;
+            height: auto;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+
+        .body {
+            border: 1px solid blue;
+        }
+
+        .body .navigation {
+            border: 1px solid yellow;
+            float: left;
+            width: 25%;
+        }
+
+        .body .main-content {
+            border: 1px solid orange;
+            float: left;
+            width: 70%;
+        }
+
+        .item-column {
+            width: 29%;
+            float: left;
+            border: 1px solid orange;
+            border-radius: 5px;
+        }
+
+        .item-column .title {
+            font-weight: bold;
+        }
+        .item-column .description {
+            font-style: italic;
+        }
+
+        .footer {
+            border: 1px solid green;
+            height: 60px;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="logo">
+        <img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/html5-bw-01.png?itok=9QcII_lY" alt="">
+    </div>
+    <div class="name">HTML Course
+    </div>
+    <div style="clear: both;"></div>
+</div>
+<div class="body">
+    <div class="navigation">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact us</a></li>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Register</a></li>
+        </ul>
+    </div>
+    <div class="main-content">
+        <div class="row">
+            <div class="item-column">
+                <div class="title">coluem1</div>
+                <div class="description">Gói quà tặng Galaxy xem phim &amp; uống cafe cuối tuần</div>
+            </div>
+            <div class="item-column">
+                <div class="title">  coluem1</div>
+                <div class="description">Gói quà tặng Galaxy xem phim &amp; uống cafe cuối tuần</div>
+            </div>
+            <div class="item-column">
+                <div class="title">coluem1</div>
+                <div class="description">Gói quà tặng Galaxy xem phim &amp; uống cafe cuối tuần</div>
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="footer">Footer</div>
+
+</body>
+</html>
